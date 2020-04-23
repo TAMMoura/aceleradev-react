@@ -4,4 +4,6 @@
     </a>
 </div>
 
-#Weekly challenges for React acceleration promoted by Codenation
+# Weekly challenges for React acceleration promoted by Codenation
+
+## A challenge is proposed each week. See the challenge in the respective readme files for each week.

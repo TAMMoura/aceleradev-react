@@ -7,4 +7,4 @@
 
 ## :zap: Sobre o Programa de Aceleração
 
-It's a free training program for technology professionals. For ** 10 weeks **, devs and data scientists have access to challenges, content and the Codenation Community to acquire and practice the technical skills most used by technology companies around the world.
+It's a free training program for technology professionals. For a few weeks, devs and data scientists have access to challenges, content and the Codenation Community to acquire and practice the technical skills most used by technology companies around the world.

@@ -1,9 +1,10 @@
-<div align="center">
-    <a href="https://www.codenation.dev/">
-        <img src="https://www.codenation.dev/img/social-meta-home.png" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 200px; height: 100px; margin: 0px;">
-    </a>
-</div>
+<p align="center">
+  <img alt="aceleradevreact" title="aceleradevreact" src="logo.svg" />
+</p>
+
 
 ## Weekly challenges for React acceleration promoted by Codenation
 
-### A challenge is proposed each week. See the challenge in the respective readme files for each week.
+## :zap: Sobre o Programa de Aceleração
+
+It's a free training program for technology professionals. For ** 10 weeks **, devs and data scientists have access to challenges, content and the Codenation Community to acquire and practice the technical skills most used by technology companies around the world.

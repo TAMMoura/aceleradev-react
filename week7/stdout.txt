@@ -1,0 +1,10 @@
+
+> react-spotify@0.1.0 submit C:\Users\Thiago\codenation\react-17
+> react-scripts test src/__tests__/validation.spec.js --reporters=default --reporters=jest-junit "--watchAll=false"
+
+  console.error node_modules/prop-types/checkPropTypes.js:20
+    Warning: Failed prop type: The prop `to` is marked as required in `Link`, but its value is `undefined`.
+        in Link (at RouteHeader.jsx:13)
+        in RouterHeader (at validation.spec.js:55)
+        in Router (at validation.spec.js:54)
+
